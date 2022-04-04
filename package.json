@@ -1,6 +1,6 @@
 {
-  "name": "validity-ukpostcode",
-  "version": "1.0.1",
+  "name": "@clocklimited/validity-ukpostcode",
+  "version": "1.0.2",
   "description": "Validity style validator to ensure a UK postcode",
   "main": "validator.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Asheboy/validity-ukpostcode"
+    "url": "https://github.com/clocklimited/validity-ukpostcode"
   },
   "author": "Ash Summers",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Asheboy/validity-ukpostcode/issues"
+    "url": "https://github.com/clocklimited/validity-ukpostcode/issues"
   },
-  "homepage": "https://github.com/Asheboy/validity-ukpostcode",
+  "homepage": "https://github.com/clocklimited/validity-ukpostcode",
   "dependencies": {
     "istanbul": "^0.4.5",
     "mocha": "^3.4.2",
-    "validity": "^1.1.1"
+    "@clocklimited/validity": "^1.1.3"
   }
 }
