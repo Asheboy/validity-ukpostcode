@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/clocklimited/validity-ukpostcode",
   "dependencies": {
-    "istanbul": "^0.4.5",
-    "mocha": "^3.4.2",
     "@clocklimited/validity": "^1.1.3"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2"
   }
 }
