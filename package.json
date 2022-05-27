@@ -1,6 +1,6 @@
 {
   "name": "@clocklimited/validity-ukpostcode",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Validity style validator to ensure a UK postcode",
   "main": "validator.js",
   "scripts": {
