@@ -5,7 +5,7 @@ Validity style validator to ensure a UK postcode
 ## Installation
 
 ```
-npm install validity-ukpostcode --save
+npm install @clocklimited/validity-ukpostcode --save
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install validity-ukpostcode --save
 Below is a simple example for usage with schemata and save:
 
 ``` js
-var postcode = require('validity-ukpostcode')
+var postcode = require('@clocklimited/validity-ukpostcode')
   , schemata = require('schemata')
 
 var schema = schemata(

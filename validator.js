@@ -1,4 +1,4 @@
-var validity = require('validity')
+var validity = require('@clocklimited/validity')
 
 module.exports = validity.createValidatorAllowingFailureMessageOverride(
   validity.booleanToCallback(ukPostcodeValidator), '#{name} is not valid')
