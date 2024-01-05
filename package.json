@@ -1,6 +1,6 @@
 {
   "name": "validity-ukpostcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validity style validator to ensure a UK postcode",
   "main": "validator.js",
   "scripts": {
